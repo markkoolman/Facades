@@ -3510,9 +3510,18 @@
          "city": "Chuo-ku",
          "state": "Tokyo",
          "art": true
+       },
+       {
+         "type": "closure",
+         "start": "2025-09-22",
+         "end": "2025-09-26",
+         "comment": "Temporarily closed for final preparation before reopening as the all-new Ginza store",
+         "address": "Sayegusa Honkan 5-12, Ginza 3-Chome, Chuo-ku",
+         "city": "Chuo-ku",
+         "state": "Tokyo"
        }
    ]
- },
+},
  {
    "name": "Avalon",
    "id": "080",
@@ -6016,9 +6025,17 @@
          "address": "1056 Northbrook Court",
          "city": "Northbrook",
          "state": "Illinois"
+       },
+       {
+         "type": "closure",
+         "date": "2025-04-26",
+         "comment": "Permanently closed as part of Apple’s retail footprint optimization",
+         "address": "1056 Northbrook Court",
+         "city": "Northbrook",
+         "state": "Illinois"
        }
    ]
- },
+},
  {
    "name": "Annapolis",
    "id": "142",
@@ -8164,9 +8181,17 @@
          "address": "17360 Hall Road, Suite 181",
          "city": "Clinton Township",
          "state": "Michigan"
+       },
+       {
+         "type": "closure",
+         "date": "2025-08",
+         "comment": "Permanently closed following the opening of new downtown Detroit location",
+         "address": "17360 Hall Road",
+         "city": "Clinton Township",
+         "state": "Michigan"
        }
    ]
- },
+},
  {
    "name": "Town Square",
    "id": "219",
@@ -9152,9 +9177,17 @@
          "type": "rename",
          "name": "Bristol",
          "date": "2021"
+       },
+       {
+         "type": "closure",
+         "date": "2025-08-09",
+         "comment": "Permanently closed due to redevelopment of Cabot Circus shopping center",
+         "address": "11 Philadelphia Street, Quakers Friars",
+         "city": "Bristol",
+         "state": "Bristol"
        }
    ]
- },
+},
  {
    "name": "Chatswood Chase",
    "id": "253",
@@ -14670,9 +14703,17 @@
          "address": "Westfield Hornsby, 236 Pacific Highway",
          "city": "Hornsby",
          "state": "New South Wales"
+       },
+       {
+         "type": "closure",
+         "date": "2025-10-04",
+         "comment": "Permanently closed; lease not renewed. Operations consolidated with nearby Apple Chatswood Chase store.",
+         "address": "Westfield Hornsby, 236 Pacific Highway",
+         "city": "Hornsby",
+         "state": "New South Wales"
        }
    ]
- },
+},
  {
    "name": "Metrotown",
    "id": "460",
@@ -15098,9 +15139,17 @@
          "address": "19 Jiefang Road",
          "city": "Dalian",
          "state": "Liaoning"
+       },
+       {
+         "type": "closure",
+         "date": "2025-08-09",
+         "comment": "Permanently closed due to mall decline and consolidation",
+         "address": "19 Jiefang Road",
+         "city": "Dalian",
+         "state": "Liaoning"
        }
    ]
- },
+},
  {
    "name": "华贸购物中心",
    "id": "479",
