@@ -20140,5 +20140,38 @@
          "gallery": 5
        }
    ]
- }
+ },
+ {
+  "name": "La Vaguada",
+  "id": "R778",
+  "address": "Centro Comercial La Vaguada, Av. de Monforte de Lemos, 36",
+  "city": "Madrid",
+  "state": "Community of Madrid",
+  "country": "Spain",
+  "coords": "40.4797222,-3.7075",
+  "type": "Mall",
+  "url": "/retail/lavaguada/",
+  "tz": "Europe/Madrid",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "La Vaguada",
+      "date": "2024-09-28T10:00:00",
+      "address": "Centro Comercial La Vaguada, Av. de Monforte de Lemos, 36, 28029 Madrid",
+      "city": "Madrid",
+      "state": "Community of Madrid",
+      "country": "Spain",
+      "gallery": 0
+    }
+  ]
+}
 ]
