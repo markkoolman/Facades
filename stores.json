@@ -20206,5 +20206,38 @@
       "gallery": 0
     }
   ]
+},
+ {
+  "name": "Miami Worldcenter",
+  "id": "R752",  
+  "address": "100 NE Eighth Street",
+  "city": "Miami",
+  "state": "Florida",
+  "country": "United States",
+  "coords": "25.78162,-80.191812", 
+  "type": "Downtown / Mall", 
+  "url": "/retail/miamiworldcenter/",
+  "tz": "America/New_York",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": true,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Miami Worldcenter",
+      "date": "2025-01-24T10:00:00",
+      "address": "100 NE Eighth Street",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "gallery": 0
+    }
+  ]
 }
 ]
