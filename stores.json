@@ -20173,5 +20173,38 @@
       "gallery": 0
     }
   ]
+},
+ {
+  "name": "MixC Hefei",
+  "id": "R765",
+  "address": "The MixC, Floor L1, 111 Qianshan Road, Shushan District",
+  "city": "Hefei",
+  "state": "Anhui",
+  "country": "China",
+  "coords": "31.8639,117.2808",
+  "type": "Mall",
+  "url": "/retail/mixchefei/",
+  "tz": "Asia/Shanghai",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "MixC Hefei",
+      "date": "2025-01-18T10:00:00",
+      "address": "The MixC, Floor L1, 111 Qianshan Road, Shushan District",
+      "city": "Hefei",
+      "state": "Anhui",
+      "country": "China",
+      "gallery": 0
+    }
+  ]
 }
 ]
