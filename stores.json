@@ -20165,7 +20165,7 @@
   "state": "Community of Madrid",
   "country": "Spain",
   "coords": "40.4797222,-3.7075",
-  "type": "Vintage E",
+  "type": "Vintage D",
   "url": "/es/retail/lavaguada/",
   "tz": "Europe/Madrid",
   "forum": false,
@@ -20264,7 +20264,7 @@
   "state": "Osaka",
   "country": "Japan",
   "coords": "34.7050,135.4970",
-  "type": "Flagship",
+  "type": "Vintage D.2",
   "url": "/jp/retail/umeda",
   "tz": "Asia/Tokyo",
   "forum": false,
@@ -20279,7 +20279,7 @@
   "events": [
     {
       "type": "nso",
-      "name": "Apple Umeda",
+      "name": "Umeda",
       "date": "2025-07-26T10:00:00",
       "address": "4-20 Ofukacho, Kita-ku, Grand Front Osaka South Building",
       "city": "Osaka",
@@ -20312,7 +20312,7 @@
   "events": [
     {
       "type": "nso",
-      "name": "Apple Uniwalk Qianhai",
+      "name": "Uniwalk Qianhai",
       "date": "2025-08-16T10:00:00",
       "address": "No. 99 Xin Hu Road, Uniwalk Qianhai Mall L1",
       "city": "Shenzhen",
@@ -20331,7 +20331,7 @@
   "postal": "560092",
   "country": "India",
   "coords": "13.07050,77.59041",
-  "type": "Flagship",
+  "type": "Vintage E",
   "url": "/in/retail/hebbal/",
   "tz": "Asia/Kolkata",
   "forum": false,
@@ -20346,7 +20346,7 @@
   "events": [
     {
       "type": "nso",
-      "name": "Apple Hebbal",
+      "name": "Hebbal",
       "date": "2025-09-02T13:00:00",
       "address": "F-39-F-43, Phoenix Mall of Asia, Bellary Road, Byatarayanapura",
       "city": "Bengaluru",
@@ -20366,7 +20366,7 @@
   "postal": "411001",
   "country": "India",
   "coords": "18.53848,73.90770",
-  "type": "Flagship",
+  "type": "Vintage D.2",
   "url": "/in/retail/koregaonpark/",
   "tz": "Asia/Kolkata",
   "forum": false,
@@ -20381,7 +20381,7 @@
   "events": [
     {
       "type": "nso",
-      "name": "Apple Koregaon Park",
+      "name": "Koregaon Park",
       "date": "2025-09-04T13:00:00",
       "address": "G8-G10, The KOPA, Koregaon Park",
       "city": "Pune",
@@ -20401,7 +20401,7 @@
   "postal": "48226",
   "country": "United States",
   "coords": "42.33473,-83.04885",
-  "type": "Flagship",
+  "type": "Vintage D",
   "url": "/retail/downtowndetroit/",
   "tz": "America/Detroit",
   "forum": false,
@@ -20416,7 +20416,7 @@
   "events": [
     {
       "type": "nso",
-      "name": "Apple Downtown Detroit",
+      "name": "Downtown Detroit",
       "date": "2025-09-19T17:00:00",
       "address": "1430 Woodward Ave",
       "city": "Detroit",
