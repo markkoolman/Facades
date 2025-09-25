@@ -3510,18 +3510,9 @@
          "city": "Chuo-ku",
          "state": "Tokyo",
          "art": true
-       },
-       {
-         "type": "closure",
-         "start": "2025-09-22",
-         "end": "2025-09-26",
-         "comment": "Temporarily closed for final preparation before reopening as the all-new Ginza store",
-         "address": "Sayegusa Honkan 5-12, Ginza 3-Chome, Chuo-ku",
-         "city": "Chuo-ku",
-         "state": "Tokyo"
        }
    ]
-},
+ },
  {
    "name": "Avalon",
    "id": "080",
@@ -6025,17 +6016,9 @@
          "address": "1056 Northbrook Court",
          "city": "Northbrook",
          "state": "Illinois"
-       },
-       {
-         "type": "closure",
-         "date": "2025-04-26",
-         "comment": "Permanently closed as part of Apple’s retail footprint optimization",
-         "address": "1056 Northbrook Court",
-         "city": "Northbrook",
-         "state": "Illinois"
        }
    ]
-},
+ },
  {
    "name": "Annapolis",
    "id": "142",
@@ -8181,17 +8164,9 @@
          "address": "17360 Hall Road, Suite 181",
          "city": "Clinton Township",
          "state": "Michigan"
-       },
-       {
-         "type": "closure",
-         "date": "2025-08",
-         "comment": "Permanently closed following the opening of new downtown Detroit location",
-         "address": "17360 Hall Road",
-         "city": "Clinton Township",
-         "state": "Michigan"
        }
    ]
-},
+ },
  {
    "name": "Town Square",
    "id": "219",
@@ -9177,17 +9152,9 @@
          "type": "rename",
          "name": "Bristol",
          "date": "2021"
-       },
-       {
-         "type": "closure",
-         "date": "2025-08-09",
-         "comment": "Permanently closed due to redevelopment of Cabot Circus shopping center",
-         "address": "11 Philadelphia Street, Quakers Friars",
-         "city": "Bristol",
-         "state": "Bristol"
        }
    ]
-},
+ },
  {
    "name": "Chatswood Chase",
    "id": "253",
@@ -14703,17 +14670,9 @@
          "address": "Westfield Hornsby, 236 Pacific Highway",
          "city": "Hornsby",
          "state": "New South Wales"
-       },
-       {
-         "type": "closure",
-         "date": "2025-10-04",
-         "comment": "Permanently closed; lease not renewed. Operations consolidated with nearby Apple Chatswood Chase store.",
-         "address": "Westfield Hornsby, 236 Pacific Highway",
-         "city": "Hornsby",
-         "state": "New South Wales"
        }
    ]
-},
+ },
  {
    "name": "Metrotown",
    "id": "460",
@@ -15139,17 +15098,9 @@
          "address": "19 Jiefang Road",
          "city": "Dalian",
          "state": "Liaoning"
-       },
-       {
-         "type": "closure",
-         "date": "2025-08-09",
-         "comment": "Permanently closed due to mall decline and consolidation",
-         "address": "19 Jiefang Road",
-         "city": "Dalian",
-         "state": "Liaoning"
        }
    ]
-},
+ },
  {
    "name": "华贸购物中心",
    "id": "479",
@@ -19955,208 +19906,208 @@
        }
    ]
  },
-  {
-    "name": "Battersea",
-    "id": "762",
-    "address": "Ground Floor Turbine Hall A, Circus Road W",
-    "city": "London",
-    "state": "Greater London",
-    "country": "United Kingdom",
-    "coords": "51.481717,-0.144469",
-    "type": "Vintage E",
-    "url": "/uk/retail/battersea/",
-    "tz": "Europe/London",
-    "forum": false,
-    "avenues": true,
-    "gp": true,
-    "plaza": false,
-    "outdoor": false,
-    "trees": false,
-    "green": false,
-    "pickup": true,
-    "boardroom": false,
-    "events": [
-      {
-        "type": "nso",
-        "name": "Battersea",
-        "date": "2023-06-15T16:00:00",
-        "address": "Ground Floor Turbine Hall A, Circus Road W",
-        "city": "London",
-        "state": "Greater London",
-        "pr": "/newsroom/2023/06/apple-battersea-opens-in-londons-historic-battersea-power-station/",
-        "gallery": 3,
-        "art": true
-      }
-    ]
-  },
-  {
-    "name": "홍대",
-    "id": "764",
-    "address": "140 Yanghwa-ro, Mapo-gu",
-    "city": "Seoul",
-    "state": "Seoul",
-    "country": "South Korea",
-    "coords": "37.5551,126.92191",
-    "usname": "Hongdae",
-    "type": "Vintage D.2",
-    "url": "/kr/retail/hongdae/",
-    "tz": "Asia/Seoul",
-    "forum": false,
-    "avenues": true,
-    "gp": true,
-    "plaza": false,
-    "outdoor": true,
-    "trees": false,
-    "green": false,
-    "pickup": true,
-    "boardroom": false,
-    "events": [
-      {
-        "type": "nso",
-        "name": "홍대",
-        "date": "2024-01-20T10:00:00",
-        "address": "140 Yanghwa-ro, Mapo-gu",
-        "city": "Seoul",
-        "state": "Seoul",
-        "pr": "/newsroom/2024/01/apple-hongdae-to-welcome-first-customers-this-saturday-january-20/,/newsroom/2024/01/apple-hongdae-now-open-in-south-korea/?1705741471",
-        "gallery": 4,
-        "art": true
-      }
-    ]
-  },
-  {
-    "name": "温州万象城",
-    "id": "766",
-    "address": "Wenzhou MixC L1, No. 1999 Ouyue Avenue",
-    "city": "Wenzhou",
-    "state": "Zhejiang",
-    "country": "China",
-    "coords": "27.956741,120.681888",
-    "usname": "MixC Wenzhou",
-    "type": "Vintage E",
-    "url": ".cn/retail/mixcwenzhou/",
-    "tz": "Asia/Shanghai",
-    "forum": false,
-    "avenues": true,
-    "gp": true,
-    "plaza": false,
-    "outdoor": false,
-    "trees": false,
-    "green": false,
-    "pickup": true,
-    "boardroom": false,
-    "events": [
-      {
-        "type": "nso",
-        "name": "温州万象城",
-        "date": "2023-11-04T10:00:00",
-        "address": "Wenzhou MixC L1, No. 1999 Ouyue Avenue",
-        "city": "Wenzhou",
-        "state": "Zhejiang",
-        "pr": "/newsroom/2023/11/apple-mixc-wenzhou-opens-for-customers-this-saturday-november-4-in-china/",
-        "gallery": 3,
-        "art": true
-      }
-    ]
-  },
-  {
-    "name": "하남",
-    "id": "770",
-    "address": "Starfield Hanam, 1F 750 Misa-Daero, Hanam-si",
-    "city": "Hanam",
-    "state": "Gyeonggi",
-    "country": "South Korea",
-    "coords": "37.54574,127.224151",
-    "usname": "Hanam",
-    "type": "Vintage E",
-    "url": "/kr/retail/hanam",
-    "tz": "Asia/Seoul",
-    "forum": false,
-    "avenues": true,
-    "gp": true,
-    "plaza": false,
-    "outdoor": false,
-    "trees": false,
-    "green": false,
-    "pickup": true,
-    "boardroom": false,
-    "events": [
-      {
-        "type": "nso",
-        "name": "하남",
-        "date": "2023-12-09T10:00:00",
-        "address": "Starfield Hanam, 1F 750 Misa-Daero, Hanam-si",
-        "city": "Hanam",
-        "state": "Gyeonggi",
-        "gallery": 5,
-        "art": true
-      }
-    ]
-  },
-  {
-    "name": "Del Amo",
-    "id": "777",
-    "address": "3525 Carson St",
-    "city": "Torrance",
-    "state": "California",
-    "country": "United States",
-    "coords": "33.833532,-118.35057",
-    "type": "Vintage D.2",
-    "url": "/retail/delamo",
-    "tz": "America/Los_Angeles",
-    "forum": false,
-    "avenues": true,
-    "gp": true,
-    "plaza": false,
-    "outdoor": false,
-    "trees": false,
-    "green": false,
-    "pickup": true,
-    "boardroom": false,
-    "events": [
-      {
-        "type": "nso",
-        "name": "Del Amo",
-        "date": "2024-09-20T08:00:00",
-        "address": "3525 Carson St",
-        "city": "Torrance",
-        "state": "California",
-        "art": true
-      }
-    ]
-  },
-  {
-    "name": "Birkdale Village",
-    "id": "796",
-    "address": "8805 Townley Rd",
-    "city": "Huntersville",
-    "state": "North Carolina",
-    "country": "United States",
-    "coords": "35.44477,-80.8786",
-    "type": "Vintage D.2",
-    "url": "/retail/birkdalevillage",
-    "tz": "America/New_York",
-    "forum": false,
-    "avenues": true,
-    "gp": true,
-    "plaza": false,
-    "outdoor": true,
-    "trees": false,
-    "green": false,
-    "pickup": true,
-    "boardroom": false,
-    "events": [
-      {
-        "type": "nso",
-        "name": "Birkdale Village",
-        "date": "2023-12-14T10:00:00",
-        "address": "8805 Townley Rd",
-        "city": "Huntersville",
-        "state": "North Carolina",
-        "art": true
-      }
-    ]
-  },
+ {
+   "name": "Battersea",
+   "id": "762",
+   "address": "Ground Floor Turbine Hall A, Circus Road W",
+   "city": "London",
+   "state": "Greater London",
+   "country": "United Kingdom",
+   "coords": "51.481717,-0.144469",
+   "type": "Vintage E",
+   "url": "/uk/retail/battersea/",
+   "tz": "Europe/London",
+   "forum": false,
+   "avenues": true,
+   "gp": true,
+   "plaza": false,
+   "outdoor": false,
+   "trees": false,
+   "green": false,
+   "pickup": true,
+   "boardroom": false,
+   "events": [
+       {
+         "type": "nso",
+         "name": "Battersea",
+         "date": "2023-06-15T16:00:00",
+         "address": "Ground Floor Turbine Hall A, Circus Road W",
+         "city": "London",
+         "state": "Greater London",
+         "pr": "/newsroom/2023/06/apple-battersea-opens-in-londons-historic-battersea-power-station/",
+         "gallery": 3,
+         "art": true
+       }
+   ]
+ },
+ {
+   "name": "홍대",
+   "id": "764",
+   "address": "140 Yanghwa-ro, Mapo-gu",
+   "city": "Seoul",
+   "state": "Seoul",
+   "country": "South Korea",
+   "coords": "37.5551,126.92191",
+   "usname": "Hongdae",
+   "type": "Vintage D.2",
+   "url": "/kr/retail/hongdae/",
+   "tz": "Asia/Seoul",
+   "forum": false,
+   "avenues": true,
+   "gp": true,
+   "plaza": false,
+   "outdoor": true,
+   "trees": false,
+   "green": false,
+   "pickup": true,
+   "boardroom": false,
+   "events": [
+       {
+         "type": "nso",
+         "name": "홍대",
+         "date": "2024-01-20T10:00:00",
+         "address": "140 Yanghwa-ro, Mapo-gu",
+         "city": "Seoul",
+         "state": "Seoul",
+         "pr": "/newsroom/2024/01/apple-hongdae-to-welcome-first-customers-this-saturday-january-20/,/newsroom/2024/01/apple-hongdae-now-open-in-south-korea/?1705741471",
+         "gallery": 4,
+         "art": true
+       }
+   ]
+ },
+ {
+   "name": "温州万象城",
+   "id": "766",
+   "address": "Wenzhou MixC L1, No. 1999 Ouyue Avenue",
+   "city": "Wenzhou",
+   "state": "Zhejiang",
+   "country": "China mainland",
+   "coords": "27.956741,120.681888",
+   "usname": "MixC Wenzhou",
+   "type": "Vintage E",
+   "url": ".cn/retail/mixcwenzhou/",
+   "tz": "Asia/Shanghai",
+   "forum": false,
+   "avenues": true,
+   "gp": true,
+   "plaza": false,
+   "outdoor": false,
+   "trees": false,
+   "green": false,
+   "pickup": true,
+   "boardroom": false,
+   "events": [
+       {
+         "type": "nso",
+         "name": "温州万象城",
+         "date": "2023-11-04T10:00:00",
+         "address": "Wenzhou MixC L1, No. 1999 Ouyue Avenue",
+         "city": "Wenzhou",
+         "state": "Zhejiang",
+         "pr": "/newsroom/2023/11/apple-mixc-wenzhou-opens-for-customers-this-saturday-november-4-in-china/",
+         "gallery": 3,
+         "art": true
+       }
+   ]
+ },
+ {
+   "name": "하남",
+   "id": "770",
+   "address": "Starfield Hanam, 1F 750 Misa-Daero, Hanam-si",
+   "city": "Hanam",
+   "state": "Gyeonggi",
+   "country": "South Korea",
+   "coords": "37.54574,127.224151",
+   "usname": "Hanam",
+   "type": "Vintage E",
+   "url": "/kr/retail/hanam",
+   "tz": "Asia/Seoul",
+   "forum": false,
+   "avenues": true,
+   "gp": true,
+   "plaza": false,
+   "outdoor": false,
+   "trees": false,
+   "green": false,
+   "pickup": true,
+   "boardroom": false,
+   "events": [
+       {
+         "type": "nso",
+         "name": "하남",
+         "date": "2023-12-09T10:00:00",
+         "address": "Starfield Hanam, 1F 750 Misa-Daero, Hanam-si",
+         "city": "Hanam",
+         "state": "Gyeonggi",
+         "gallery": 5,
+         "art": true
+       }
+   ]
+ },
+ {
+   "name": "Del Amo",
+   "id": "777",
+   "address": "3525 Carson St",
+   "city": "Torrance",
+   "state": "California",
+   "country": "United States",
+   "coords": "33.833532,-118.35057",
+   "type": "Vintage D.2",
+   "url": "/retail/delamo",
+   "tz": "America/Los_Angeles",
+   "forum": false,
+   "avenues": true,
+   "gp": true,
+   "plaza": false,
+   "outdoor": false,
+   "trees": false,
+   "green": false,
+   "pickup": true,
+   "boardroom": false,
+   "events": [
+       {
+         "type": "nso",
+         "name": "Del Amo",
+         "date": "2024-09-20T08:00:00",
+         "address": "3525 Carson St",
+         "city": "Torrance",
+         "state": "California",
+         "art": true
+       }
+   ]
+ },
+ {
+   "name": "Birkdale Village",
+   "id": "796",
+   "address": "8805 Townley Rd",
+   "city": "Huntersville",
+   "state": "North Carolina",
+   "country": "United States",
+   "coords": "35.44477,-80.8786",
+   "type": "Vintage D.2",
+   "url": "/retail/birkdalevillage",
+   "tz": "America/New_York",
+   "forum": false,
+   "avenues": true,
+   "gp": true,
+   "plaza": false,
+   "outdoor": true,
+   "trees": false,
+   "green": false,
+   "pickup": true,
+   "boardroom": false,
+   "events": [
+       {
+         "type": "nso",
+         "name": "Birkdale Village",
+         "date": "2023-12-14T10:00:00",
+         "address": "8805 Townley Rd",
+         "city": "Huntersville",
+         "state": "North Carolina",
+         "art": true
+       }
+   ]
+ },
  {
    "name": "Park Visitor Center",
    "id": "824",
@@ -20189,275 +20140,5 @@
          "gallery": 5
        }
    ]
- },
- {
-  "name": "La Vaguada",
-  "id": "R778",
-  "address": "Centro Comercial La Vaguada, Av. de Monforte de Lemos, 36",
-  "city": "Madrid",
-  "state": "Community of Madrid",
-  "country": "Spain",
-  "coords": "40.4797222,-3.7075",
-  "type": "Mall",
-  "url": "/retail/lavaguada/",
-  "tz": "Europe/Madrid",
-  "forum": false,
-  "avenues": false,
-  "gp": true,
-  "plaza": false,
-  "outdoor": false,
-  "trees": false,
-  "green": false,
-  "pickup": true,
-  "boardroom": false,
-  "events": [
-    {
-      "type": "nso",
-      "name": "La Vaguada",
-      "date": "2024-09-28T10:00:00",
-      "address": "Centro Comercial La Vaguada, Av. de Monforte de Lemos, 36, 28029 Madrid",
-      "city": "Madrid",
-      "state": "Community of Madrid",
-      "country": "Spain",
-      "gallery": 0
-    }
-  ]
-},
- {
-  "name": "MixC Hefei",
-  "id": "R765",
-  "address": "The MixC, Floor L1, 111 Qianshan Road, Shushan District",
-  "city": "Hefei",
-  "state": "Anhui",
-  "country": "China",
-  "coords": "31.8639,117.2808",
-  "type": "Mall",
-  "url": "/retail/mixchefei/",
-  "tz": "Asia/Shanghai",
-  "forum": false,
-  "avenues": false,
-  "gp": true,
-  "plaza": false,
-  "outdoor": false,
-  "trees": false,
-  "green": false,
-  "pickup": true,
-  "boardroom": false,
-  "events": [
-    {
-      "type": "nso",
-      "name": "MixC Hefei",
-      "date": "2025-01-18T10:00:00",
-      "address": "The MixC, Floor L1, 111 Qianshan Road, Shushan District",
-      "city": "Hefei",
-      "state": "Anhui",
-      "country": "China",
-      "gallery": 0
-    }
-  ]
-},
- {
-  "name": "Miami Worldcenter",
-  "id": "R752",  
-  "address": "100 NE Eighth Street",
-  "city": "Miami",
-  "state": "Florida",
-  "country": "United States",
-  "coords": "25.78162,-80.191812", 
-  "type": "Downtown / Mall", 
-  "url": "/retail/miamiworldcenter/",
-  "tz": "America/New_York",
-  "forum": false,
-  "avenues": false,
-  "gp": true,
-  "plaza": false,
-  "outdoor": false,
-  "trees": false,
-  "green": true,
-  "pickup": true,
-  "boardroom": false,
-  "events": [
-    {
-      "type": "nso",
-      "name": "Miami Worldcenter",
-      "date": "2025-01-24T10:00:00",
-      "address": "100 NE Eighth Street",
-      "city": "Miami",
-      "state": "Florida",
-      "country": "United States",
-      "gallery": 0
-    }
-  ]
-},
- {
-   "name": "Apple Umeda",
-   "id": "R768",
-   "address": "4-20 Ofukacho, Kita-ku, Grand Front Osaka South Building",
-   "city": "Osaka",
-   "state": "Osaka",
-   "country": "Japan",
-   "coords": "34.7050,135.4970",
-   "type": "Flagship",
-   "url": "https://www.apple.com/jp/retail/umeda/",
-   "tz": "Asia/Tokyo",
-   "forum": false,
-   "avenues": false,
-   "gp": true,
-   "plaza": false,
-   "outdoor": false,
-   "trees": false,
-   "green": false,
-   "pickup": true,
-   "boardroom": false,
-   "events": [
-       {
-           "type": "nso",
-           "name": "Apple Umeda",
-           "date": "2025-07-26T10:00:00",
-           "address": "4-20 Ofukacho, Kita-ku, Grand Front Osaka South Building",
-           "city": "Osaka",
-           "state": "Osaka",
-           "pr": "https://www.apple.com/jp/retail/umeda/",
-           "gallery": 5
-       }
-   ]
-},
- {
-   "name": "Apple Uniwalk Qianhai",
-   "id": "R793",
-   "address": "No. 99 Xin Hu Road, Uniwalk Qianhai Mall L1",
-   "city": "Shenzhen",
-   "state": "Guangdong",
-   "country": "China",
-   "coords": "22.55530,113.88359",
-   "type": "Flagship",
-   "url": "https://www.apple.com.cn/uniwalkqianhai",
-   "tz": "Asia/Shanghai",
-   "forum": false,
-   "avenues": false,
-   "gp": true,
-   "plaza": false,
-   "outdoor": false,
-   "trees": false,
-   "green": false,
-   "pickup": true,
-   "boardroom": false,
-   "events": [
-       {
-           "type": "nso",
-           "name": "Apple Uniwalk Qianhai",
-           "date": "2025-08-16T10:00:00",
-           "address": "No. 99 Xin Hu Road, Uniwalk Qianhai Mall L1",
-           "city": "Shenzhen",
-           "state": "Guangdong",
-           "pr": "https://www.apple.com.cn/newsroom/2025/08/apple-uniwalk-qianhai-opens-saturday-august-16-in-shenzhen/",
-           "gallery": 5
-       }
-   ]
-},
- {
-   "name": "Apple Hebbal",
-   "id": "R790",
-   "address": "F-39-F-43, Phoenix Mall of Asia, Bellary Road, Byatarayanapura",
-   "city": "Bengaluru",
-   "state": "Karnataka",
-   "postal": "560092",
-   "country": "India",
-   "coords": "13.07050,77.59041",
-   "type": "Flagship",
-   "url": "https://www.apple.com/in/retail/hebbal/",
-   "tz": "Asia/Kolkata",
-   "forum": false,
-   "avenues": false,
-   "gp": true,
-   "plaza": false,
-   "outdoor": false,
-   "trees": false,
-   "green": false,
-   "pickup": true,
-   "boardroom": false,
-   "events": [
-       {
-           "type": "nso",
-           "name": "Apple Hebbal",
-           "date": "2025-09-02T13:00:00",
-           "address": "F-39-F-43, Phoenix Mall of Asia, Bellary Road, Byatarayanapura",
-           "city": "Bengaluru",
-           "state": "Karnataka",
-           "postal": "560092",
-           "pr": "https://www.apple.com/in/newsroom/2025/08/apple-hebbal-opens-this-tuesday-september-2-in-bengaluru/",
-           "gallery": 5
-       }
-   ]
-},
- {
-   "name": "Apple Koregaon Park",
-   "id": "R788",
-   "address": "G8-G10, The KOPA, Koregaon Park",
-   "city": "Pune",
-   "state": "Maharashtra",
-   "postal": "411001",
-   "country": "India",
-   "coords": "18.53848,73.90770",
-   "type": "Flagship",
-   "url": "https://www.apple.com/in/retail/koregaonpark/",
-   "tz": "Asia/Kolkata",
-   "forum": false,
-   "avenues": false,
-   "gp": true,
-   "plaza": false,
-   "outdoor": false,
-   "trees": false,
-   "green": false,
-   "pickup": true,
-   "boardroom": false,
-   "events": [
-       {
-           "type": "nso",
-           "name": "Apple Koregaon Park",
-           "date": "2025-09-04T13:00:00",
-           "address": "G8-G10, The KOPA, Koregaon Park",
-           "city": "Pune",
-           "state": "Maharashtra",
-           "postal": "411001",
-           "pr": "https://www.apple.com/newsroom/2025/09/apple-koregaon-park-opens-to-customers-this-thursday-september-4-in-pune/",
-           "gallery": 5
-       }
-   ]
-},
- {
-   "name": "Apple Downtown Detroit",
-   "id": "R272",
-   "address": "1430 Woodward Ave",
-   "city": "Detroit",
-   "state": "Michigan",
-   "postal": "48226",
-   "country": "United States",
-   "coords": "42.33473,-83.04885",
-   "type": "Flagship",
-   "url": "https://www.apple.com/retail/downtowndetroit/",
-   "tz": "America/Detroit",
-   "forum": false,
-   "avenues": false,
-   "gp": true,
-   "plaza": false,
-   "outdoor": false,
-   "trees": false,
-   "green": false,
-   "pickup": true,
-   "boardroom": false,
-   "events": [
-       {
-           "type": "nso",
-           "name": "Apple Downtown Detroit",
-           "date": "2025-09-19T17:00:00",
-           "address": "1430 Woodward Ave",
-           "city": "Detroit",
-           "state": "Michigan",
-           "postal": "48226",
-           "pr": "https://www.freep.com/story/money/business/michigan/2025/09/19/downtown-detroit-apple-store-opens/86240179007/",
-           "gallery": 5
-       }
-   ]
-}
+ }
 ]
