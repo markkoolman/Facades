@@ -20159,7 +20159,7 @@
  },
 {
   "name": "La Vaguada",
-  "id": "R778",
+  "id": "R624",
   "address": "Centro Comercial La Vaguada, Av. de Monforte de Lemos, 36",
   "city": "Madrid",
   "state": "Community of Madrid",
@@ -20186,7 +20186,7 @@
       "city": "Madrid",
       "state": "Community of Madrid",
       "country": "Spain",
-      "gallery": 0
+      "gallery": 5
     }
   ]
 },
