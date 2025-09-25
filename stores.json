@@ -20140,5 +20140,275 @@
          "gallery": 5
        }
    ]
- }
+ },
+{
+  "name": "La Vaguada",
+  "id": "R778",
+  "address": "Centro Comercial La Vaguada, Av. de Monforte de Lemos, 36",
+  "city": "Madrid",
+  "state": "Community of Madrid",
+  "country": "Spain",
+  "coords": "40.4797222,-3.7075",
+  "type": "Mall",
+  "url": "/retail/lavaguada/",
+  "tz": "Europe/Madrid",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "La Vaguada",
+      "date": "2024-09-28T10:00:00",
+      "address": "Centro Comercial La Vaguada, Av. de Monforte de Lemos, 36, 28029 Madrid",
+      "city": "Madrid",
+      "state": "Community of Madrid",
+      "country": "Spain",
+      "gallery": 0
+    }
+  ]
+},
+{
+  "name": "MixC Hefei",
+  "id": "R765",
+  "address": "The MixC, Floor L1, 111 Qianshan Road, Shushan District",
+  "city": "Hefei",
+  "state": "Anhui",
+  "country": "China",
+  "coords": "31.8639,117.2808",
+  "type": "Mall",
+  "url": "/retail/mixchefei/",
+  "tz": "Asia/Shanghai",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "MixC Hefei",
+      "date": "2025-01-18T10:00:00",
+      "address": "The MixC, Floor L1, 111 Qianshan Road, Shushan District",
+      "city": "Hefei",
+      "state": "Anhui",
+      "country": "China",
+      "gallery": 0
+    }
+  ]
+},
+{
+  "name": "Miami Worldcenter",
+  "id": "R752",
+  "address": "100 NE Eighth Street",
+  "city": "Miami",
+  "state": "Florida",
+  "country": "United States",
+  "coords": "25.78162,-80.191812",
+  "type": "Downtown / Mall",
+  "url": "/retail/miamiworldcenter/",
+  "tz": "America/New_York",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": true,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Miami Worldcenter",
+      "date": "2025-01-24T10:00:00",
+      "address": "100 NE Eighth Street",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "gallery": 0
+    }
+  ]
+},
+{
+  "name": "Apple Umeda",
+  "id": "R768",
+  "address": "4-20 Ofukacho, Kita-ku, Grand Front Osaka South Building",
+  "city": "Osaka",
+  "state": "Osaka",
+  "country": "Japan",
+  "coords": "34.7050,135.4970",
+  "type": "Flagship",
+  "url": "/retail/umeda/",
+  "tz": "Asia/Tokyo",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Apple Umeda",
+      "date": "2025-07-26T10:00:00",
+      "address": "4-20 Ofukacho, Kita-ku, Grand Front Osaka South Building",
+      "city": "Osaka",
+      "state": "Osaka",
+      "pr": "https://www.apple.com/jp/retail/umeda/",
+      "gallery": 5
+    }
+  ]
+},
+{
+  "name": "Apple Uniwalk Qianhai",
+  "id": "R793",
+  "address": "No. 99 Xin Hu Road, Uniwalk Qianhai Mall L1",
+  "city": "Shenzhen",
+  "state": "Guangdong",
+  "country": "China",
+  "coords": "22.55530,113.88359",
+  "type": "Flagship",
+  "url": "/retail/uniwalkqianhai/",
+  "tz": "Asia/Shanghai",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Apple Uniwalk Qianhai",
+      "date": "2025-08-16T10:00:00",
+      "address": "No. 99 Xin Hu Road, Uniwalk Qianhai Mall L1",
+      "city": "Shenzhen",
+      "state": "Guangdong",
+      "pr": "https://www.apple.com.cn/newsroom/2025/08/apple-uniwalk-qianhai-opens-saturday-august-16-in-shenzhen/",
+      "gallery": 5
+    }
+  ]
+},
+{
+  "name": "Apple Hebbal",
+  "id": "R790",
+  "address": "F-39-F-43, Phoenix Mall of Asia, Bellary Road, Byatarayanapura",
+  "city": "Bengaluru",
+  "state": "Karnataka",
+  "postal": "560092",
+  "country": "India",
+  "coords": "13.07050,77.59041",
+  "type": "Flagship",
+  "url": "/retail/hebbal/",
+  "tz": "Asia/Kolkata",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Apple Hebbal",
+      "date": "2025-09-02T13:00:00",
+      "address": "F-39-F-43, Phoenix Mall of Asia, Bellary Road, Byatarayanapura",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postal": "560092",
+      "pr": "https://www.apple.com/in/newsroom/2025/08/apple-hebbal-opens-this-tuesday-september-2-in-bengaluru/",
+      "gallery": 5
+    }
+  ]
+},
+{
+  "name": "Apple Koregaon Park",
+  "id": "R788",
+  "address": "G8-G10, The KOPA, Koregaon Park",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "postal": "411001",
+  "country": "India",
+  "coords": "18.53848,73.90770",
+  "type": "Flagship",
+  "url": "/retail/koregaonpark/",
+  "tz": "Asia/Kolkata",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Apple Koregaon Park",
+      "date": "2025-09-04T13:00:00",
+      "address": "G8-G10, The KOPA, Koregaon Park",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "postal": "411001",
+      "pr": "https://www.apple.com/newsroom/2025/09/apple-koregaon-park-opens-to-customers-this-thursday-september-4-in-pune/",
+      "gallery": 5
+    }
+  ]
+},
+{
+  "name": "Apple Downtown Detroit",
+  "id": "R272",
+  "address": "1430 Woodward Ave",
+  "city": "Detroit",
+  "state": "Michigan",
+  "postal": "48226",
+  "country": "United States",
+  "coords": "42.33473,-83.04885",
+  "type": "Flagship",
+  "url": "/retail/downtowndetroit/",
+  "tz": "America/Detroit",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Apple Downtown Detroit",
+      "date": "2025-09-19T17:00:00",
+      "address": "1430 Woodward Ave",
+      "city": "Detroit",
+      "state": "Michigan",
+      "postal": "48226",
+      "pr": "https://www.freep.com/story/money/business/michigan/2025/09/19/downtown-detroit-apple-store-opens/86240179007/",
+      "gallery": 5
+    }
+  ]
+}
 ]
