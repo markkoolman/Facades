@@ -6016,6 +6016,10 @@
          "address": "1056 Northbrook Court",
          "city": "Northbrook",
          "state": "Illinois"
+       },
+    {
+         "type": "closure",
+         "date": "2025-04-26"
        }
    ]
  },
@@ -8164,6 +8168,10 @@
          "address": "17360 Hall Road, Suite 181",
          "city": "Clinton Township",
          "state": "Michigan"
+       },
+    {
+         "type": "closure",
+         "date": "2025-08-16"
        }
    ]
  },
@@ -14670,6 +14678,10 @@
          "address": "Westfield Hornsby, 236 Pacific Highway",
          "city": "Hornsby",
          "state": "New South Wales"
+       },
+   {
+         "type": "closure",
+         "date": "2025-10-04"
        }
    ]
  },
@@ -15098,6 +15110,10 @@
          "address": "19 Jiefang Road",
          "city": "Dalian",
          "state": "Liaoning"
+       },
+    {
+         "type": "closure",
+         "date": "2025-08-09"
        }
    ]
  },
