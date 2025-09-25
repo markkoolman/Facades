@@ -13030,6 +13030,10 @@
          "address": "Upper Mall, The Mall at Cribbs Causeway",
          "city": "Bristol",
          "state": "Bristol"
+       },
+     {
+         "type": "closure",
+         "date": "2025-08-09"
        }
    ]
  },
