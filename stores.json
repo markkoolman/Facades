@@ -20430,5 +20430,40 @@
       "gallery": 5
     }
   ]
+},
+ {
+  "name": "Al Jimi Mall",
+  "id": "—",             
+  "address": "Al Jimi Mall, Hamdan Bin Mohammed Street",
+  "city": "Al Ain",
+  "state": "Abu Dhabi",
+  "country": "United Arab Emirates",
+  "coords": "24.2438889,55.7266666666667",   
+  "type": "Vintage E",
+  "url": "/ae/store/al‑jimi‑mall",  
+  "tz": "Asia/Dubai",
+  "forum": false,
+  "avenues": true,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Al Jimi Mall Opening",
+      "date": "2025‑09‑25T10:00:00",       
+      "address": "Al Jimi Mall, Al Ain",
+      "city": "Al Ain",
+      "state": "Abu Dhabi",
+      "pr": "/newsroom/2025/09/apple‑opens‑at‑al‑jimi‑mall‑in‑al‑ain‑uae/",  
+      "gallery": 3,
+      "art": true
+    }
+  ]
 }
+
 ]
