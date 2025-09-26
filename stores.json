@@ -9160,6 +9160,10 @@
          "type": "rename",
          "name": "Bristol",
          "date": "2021"
+       },
+    {
+         "type": "closure",
+         "date": "2025-08-09"
        }
    ]
  },
@@ -13030,10 +13034,6 @@
          "address": "Upper Mall, The Mall at Cribbs Causeway",
          "city": "Bristol",
          "state": "Bristol"
-       },
-     {
-         "type": "closure",
-         "date": "2025-08-09"
        }
    ]
  },
