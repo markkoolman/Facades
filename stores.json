@@ -17919,36 +17919,48 @@
    ]
  },
  {
-   "name": "Solomon Pond Mall",
-   "id": "622",
-   "address": "601 Donald Lynch Boulevard",
-   "city": "Marlborough",
-   "state": "Massachusetts",
-   "country": "United States",
-   "coords": "42.355617,-71.613017",
-   "type": "Classic",
-   "url": "/retail/solomonpondmall/",
-   "tz": "America/New_York",
-   "forum": false,
-   "avenues": false,
-   "gp": true,
-   "plaza": false,
-   "outdoor": false,
-   "trees": false,
-   "green": false,
-   "pickup": false,
-   "boardroom": false,
-   "events": [
-       {
-         "type": "nso",
-         "name": "Solomon Pond Mall",
-         "date": "2014-10-11T10:00:00",
-         "address": "601 Donald Lynch Boulevard",
-         "city": "Marlborough",
-         "state": "Massachusetts"
-       }
-   ]
- },
+  "name": "The Shops at Blackstone Valley",
+  "id": "622",
+  "address": "70 Worcester-Providence Turnpike",
+  "city": "Millbury",
+  "state": "Massachusetts",
+  "country": "United States",
+  "coords": "42.1939,-71.7581",
+  "type": "Classic",
+  "url": "/retail/theshopsatblackstonevalley/",
+  "tz": "America/New_York",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Solomon Pond Mall",
+      "date": "2014-10-11T10:00:00",
+      "address": "601 Donald Lynch Boulevard",
+      "city": "Marlborough",
+      "state": "Massachusetts"
+    },
+    {
+      "type": "close",
+      "date": "2025-12-10",
+      "comment": "Original location closed"
+    },
+    {
+      "type": "move",
+      "date": "2025-12-12T09:30:00",
+      "address": "70 Worcester-Providence Turnpike",
+      "city": "Millbury",
+      "state": "Massachusetts"
+    }
+  ]
+},
  {
    "name": "Brickell City Centre",
    "id": "623",
@@ -20464,6 +20476,76 @@
       "art": true
     }
   ]
+},
+  {
+  "name": "Livat Beijing",
+  "id": "792",             
+  "address": "1st Floor, Beijing Huiju, No. 15 Xinning Street, Daxing District",
+  "city": "Beijing",
+  "state": "Beijing",
+  "country": "China",
+  "coords": "39.78638,116.32046",   
+  "type": "Vintage E",
+  "url": "/cn/retail/livatbeijing/",  
+  "tz": "Asia/Shanghai",
+  "forum": false,
+  "avenues": true,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Livat Beijing",
+      "date": "2025-12-06T10:00:00",       
+      "address": "Livat Centre, Daxing District",
+      "city": "Beijing",
+      "state": "Beijing",
+      "pr": "https://apple.fandom.com/wiki/Apple_Livat_Beijing",  
+      "gallery": 3,
+      "art": true
+    }
+  ]
+},
+  {
+  "name": "Noida",
+  "id": "787",             
+  "address": "D123-D128, DLF Mall of India, Sector 18, Noida, Uttar Pradesh, 201301",
+  "city": "Noida",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "coords": "28.56725,77.32162",   
+  "type": "Vintage E",
+  "url": "/in/retail/noida/",  
+  "tz": "Asia/Kolkata",
+  "forum": false,
+  "avenues": true,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Noida",
+      "date": "2025-12-11T13:00:00",       
+      "address": "D123-D128, DLF Mall of India, Sector 18",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "pr": "/in/newsroom/2025/12/apple-noida-opens-to-customers-this-thursday-december-11/",  
+      "gallery": 3,
+      "art": true
+    }
+  ]
 }
+ 
+
 
 ]
