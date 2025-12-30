@@ -20478,40 +20478,6 @@
   ]
 },
   {
-  "name": "Livat Beijing",
-  "id": "792",             
-  "address": "1st Floor, Beijing Huiju, No. 15 Xinning Street, Daxing District",
-  "city": "Beijing",
-  "state": "Beijing",
-  "country": "China",
-  "coords": "39.78638,116.32046",   
-  "type": "Vintage E",
-  "url": "/cn/retail/livatbeijing/",  
-  "tz": "Asia/Shanghai",
-  "forum": false,
-  "avenues": true,
-  "gp": true,
-  "plaza": false,
-  "outdoor": false,
-  "trees": false,
-  "green": false,
-  "pickup": true,
-  "boardroom": false,
-  "events": [
-    {
-      "type": "nso",
-      "name": "Livat Beijing",
-      "date": "2025-12-06T10:00:00",       
-      "address": "Livat Centre, Daxing District",
-      "city": "Beijing",
-      "state": "Beijing",
-      "pr": "https://apple.fandom.com/wiki/Apple_Livat_Beijing",  
-      "gallery": 3,
-      "art": true
-    }
-  ]
-},
-  {
   "name": "Noida",
   "id": "787",             
   "address": "D123-D128, DLF Mall of India, Sector 18, Noida, Uttar Pradesh, 201301",
@@ -20544,8 +20510,42 @@
       "art": true
     }
   ]
+},
+ {
+  "name": "Livat Beijing",
+  "id": "792",             
+  "address": "1st Floor, Beijing Huiju, No. 15 Xinning Street, Daxing District",
+  "city": "Beijing",
+  "state": "Beijing",
+  "country": "China",
+  "coords": "39.78638,116.32046",   
+  "type": "Vintage E",
+  "url": "/cn/retail/livatbeijing/",  
+  "tz": "Asia/Shanghai",
+  "forum": false,
+  "avenues": true,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": true,
+  "boardroom": false,
+  "events": [
+    {
+      "type": "nso",
+      "name": "Livat Beijing",
+      "date": "2025-12-06T10:00:00",       
+      "address": "Livat Centre, Daxing District",
+      "city": "Beijing",
+      "state": "Beijing",
+      "pr": "https://apple.fandom.com/wiki/Apple_Livat_Beijing",  
+      "gallery": 3,
+      "art": true
+    }
+  ]
 }
- 
+  
 
 
 ]
