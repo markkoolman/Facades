@@ -9059,12 +9059,11 @@
        },
     {
          "type": "moved",
-         "name": "Sainte-Catherine",
          "date": "2026-01-16T10:00:00",
          "address": "1255 Rue Ste-Catherine O, Montreal QC, H3G 1P3",
          "city": "Montreal",
          "state": "Quebec",
-         "previous_address": "1321 Rue Ste-Catherine Ouest"
+         "gift": true
        }
    ]
  },
