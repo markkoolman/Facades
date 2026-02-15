@@ -9060,7 +9060,7 @@
     {
          "type": "move",
          "date": "2026-01-16T10:00:00",
-         "address": "1255 Rue Ste-Catherine O, Montreal QC, H3G 1P3",
+         "address": "1255 Rue Ste-Catherine O",
          "city": "Montreal",
          "state": "Quebec",
          "gift": true
