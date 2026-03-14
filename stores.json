@@ -9030,7 +9030,7 @@
  {
    "name": "Sainte-Catherine",
    "id": "248",
-   "address": "1321 Rue Ste-Catherine Ouest",
+   "address": "1255 Rue Ste-Catherine O",
    "city": "Montreal",
    "state": "Quebec",
    "country": "Canada",
@@ -9052,7 +9052,7 @@
          "type": "nso",
          "name": "Sainte-Catherine",
          "date": "2008-07-25T17:00:00",
-         "address": "1255 Rue Ste-Catherine O",
+         "address": "1321 Rue Ste-Catherine Ouest",
          "city": "Montreal",
          "state": "Quebec",
          "art": true
