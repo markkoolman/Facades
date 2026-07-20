@@ -8514,7 +8514,15 @@
          "address": "100 Briarwood Circle",
          "city": "Ann Arbor",
          "state": "Michigan"
-       }
+       },
+    {
+  "type": "move",
+  "date": "2026-07-31T10:00:00",
+  "address": "100 Briarwood Circle",
+  "city": "Ann Arbor",
+  "state": "Michigan",
+  "comment": "Larger store, entrance facing The Lawn"
+}
    ]
  },
  {
@@ -11257,7 +11265,15 @@
          "address": "1000 Highland Colony Parkway",
          "city": "Ridgeland",
          "state": "Mississippi"
-       }
+       },
+    {
+  "type": "move",
+  "date": "2026-07-24T10:00:00",
+  "address": "1000 Highland Colony Parkway",
+  "city": "Ridgeland",
+  "state": "Mississippi",
+  "comment": "New storefront in front of the Show Fountain, same shopping center"
+}
    ]
  },
  {
@@ -11599,7 +11615,15 @@
          "address": "1685 Briargate Parkway Suite 315",
          "city": "Colorado Springs",
          "state": "Colorado"
-       }
+       },
+    {
+  "type": "move",
+  "date": "2026-07-31T10:00:00",
+  "address": "1685 Briargate Parkway Suite 315",
+  "city": "Colorado Springs",
+  "state": "Colorado",
+  "comment": "Moved six doors down within the same shopping center"
+}
    ]
  },
  {
