@@ -2748,49 +2748,53 @@
    ]
  },
  {
-   "name": "Towson Town Center",
-   "id": "063",
-   "address": "825 Dulaney Valley Road",
-   "city": "Towson",
-   "state": "Maryland",
-   "country": "United States",
-   "coords": "39.404600,-76.599581",
-   "type": "Classic",
-   "url": "/retail/towsontowncenter/",
-   "tz": "America/New_York",
-   "forum": false,
-   "avenues": false,
-   "gp": true,
-   "plaza": false,
-   "outdoor": false,
-   "trees": false,
-   "green": false,
-   "pickup": false,
-   "boardroom": false,
-   "events": [
-       {
-         "type": "nso",
-         "name": "Towson Town Center",
-         "date": "2002-10-05T10:00:00",
-         "address": "825 Dulaney Valley Road",
-         "city": "Towson",
-         "state": "Maryland"
-       },
-       {
-         "type": "reno",
-         "date": "2009-08",
-         "comment": "Black Facade Removed"
-       },
-       {
-         "type": "move",
-         "date": "2012-09-29T10:00:00",
-         "address": "825 Dulaney Valley Road",
-         "city": "Towson",
-         "state": "Maryland",
-         "gift": true
-       }
-   ]
- },
+  "name": "Towson Town Center",
+  "id": "063",
+  "address": "825 Dulaney Valley Road",
+  "city": "Towson",
+  "state": "Maryland",
+  "country": "United States",
+  "coords": "39.404600,-76.599581",
+  "type": "Classic",
+  "url": "/retail/towsontowncenter/",
+  "tz": "America/New_York",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": false,
+  "boardroom": false,
+  "events": [
+      {
+        "type": "nso",
+        "name": "Towson Town Center",
+        "date": "2002-10-05T10:00:00",
+        "address": "825 Dulaney Valley Road",
+        "city": "Towson",
+        "state": "Maryland"
+      },
+      {
+        "type": "reno",
+        "date": "2009-08",
+        "comment": "Black Facade Removed"
+      },
+      {
+        "type": "move",
+        "date": "2012-09-29T10:00:00",
+        "address": "825 Dulaney Valley Road",
+        "city": "Towson",
+        "state": "Maryland",
+        "gift": true
+      },
+      {
+        "type": "closure",
+        "date": "2026-06-20"
+      }
+  ]
+},
  {
    "name": "Fashion Show",
    "id": "064",
@@ -10133,36 +10137,40 @@
    ]
  },
  {
-   "name": "North County",
-   "id": "285",
-   "address": "272 E Via Rancho Parkway",
-   "city": "Escondido",
-   "state": "California",
-   "country": "United States",
-   "coords": "33.071112,-117.066147",
-   "type": "Classic",
-   "url": "/retail/northcounty/",
-   "tz": "America/Los_Angeles",
-   "forum": false,
-   "avenues": false,
-   "gp": true,
-   "plaza": false,
-   "outdoor": false,
-   "trees": false,
-   "green": false,
-   "pickup": false,
-   "boardroom": false,
-   "events": [
-       {
-         "type": "nso",
-         "name": "North County",
-         "date": "2008-09-20T10:00:00",
-         "address": "272 E Via Rancho Parkway",
-         "city": "Escondido",
-         "state": "California"
-       }
-   ]
- },
+  "name": "North County",
+  "id": "285",
+  "address": "272 E Via Rancho Parkway",
+  "city": "Escondido",
+  "state": "California",
+  "country": "United States",
+  "coords": "33.071112,-117.066147",
+  "type": "Classic",
+  "url": "/retail/northcounty/",
+  "tz": "America/Los_Angeles",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": false,
+  "boardroom": false,
+  "events": [
+      {
+        "type": "nso",
+        "name": "North County",
+        "date": "2008-09-20T10:00:00",
+        "address": "272 E Via Rancho Parkway",
+        "city": "Escondido",
+        "state": "California"
+      },
+      {
+        "type": "closure",
+        "date": "2026-06-20"
+      }
+  ]
+},
  {
    "name": "The Promenade at Chenal",
    "id": "286",
@@ -18066,37 +18074,41 @@
        }
    ]
  },
- {
-   "name": "Trumbull",
-   "id": "629",
-   "address": "5065 Main Street",
-   "city": "Trumbull",
-   "state": "Connecticut",
-   "country": "United States",
-   "coords": "41.229509,-73.225756",
-   "type": "Classic",
-   "url": "/retail/trumbull/",
-   "tz": "America/New_York",
-   "forum": false,
-   "avenues": false,
-   "gp": true,
-   "plaza": false,
-   "outdoor": false,
-   "trees": false,
-   "green": false,
-   "pickup": false,
-   "boardroom": false,
-   "events": [
-       {
-         "type": "nso",
-         "name": "Trumbull",
-         "date": "2014-10-11T10:00:00",
-         "address": "5065 Main Street",
-         "city": "Trumbull",
-         "state": "Connecticut"
-       }
-   ]
- },
+{
+  "name": "Trumbull",
+  "id": "629",
+  "address": "5065 Main Street",
+  "city": "Trumbull",
+  "state": "Connecticut",
+  "country": "United States",
+  "coords": "41.229509,-73.225756",
+  "type": "Classic",
+  "url": "/retail/trumbull/",
+  "tz": "America/New_York",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": false,
+  "trees": false,
+  "green": false,
+  "pickup": false,
+  "boardroom": false,
+  "events": [
+      {
+        "type": "nso",
+        "name": "Trumbull",
+        "date": "2014-10-11T10:00:00",
+        "address": "5065 Main Street",
+        "city": "Trumbull",
+        "state": "Connecticut"
+      },
+      {
+        "type": "closure",
+        "date": "2026-06-20"
+      }
+  ]
+},
  {
    "name": "The Mall of New Hampshire",
    "id": "631",
