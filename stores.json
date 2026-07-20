@@ -9032,45 +9032,45 @@
    ]
  },
  {
-   "name": "Sainte-Catherine",
-   "id": "248",
-   "address": "1255 Rue Ste-Catherine O",
-   "city": "Montreal",
-   "state": "Quebec",
-   "country": "Canada",
-   "coords": "45.497594,-73.575595",
-   "type": "Classic",
-   "url": "/ca/retail/saintecatherine/",
-   "tz": "Canada/Eastern",
-   "forum": false,
-   "avenues": false,
-   "gp": true,
-   "plaza": false,
-   "outdoor": true,
-   "trees": false,
-   "green": false,
-   "pickup": false,
-   "boardroom": false,
-   "events": [
-       {
-         "type": "nso",
-         "name": "Sainte-Catherine",
-         "date": "2008-07-25T17:00:00",
-         "address": "1321 Rue Ste-Catherine Ouest",
-         "city": "Montreal",
-         "state": "Quebec",
-         "art": true
-       },
-    {
-         "type": "move",
-         "date": "2026-01-16T10:00:00",
-         "address": "1255 Rue Ste-Catherine O",
-         "city": "Montreal",
-         "state": "Quebec",
-         "gift": true
-       }
-   ]
- },
+  "name": "Sainte-Catherine",
+  "id": "248",
+  "address": "1255 Rue Ste-Catherine O",
+  "city": "Montreal",
+  "state": "Quebec",
+  "country": "Canada",
+  "coords": "45.4939,-73.5773",
+  "type": "Classic",
+  "url": "/ca/retail/saintecatherine/",
+  "tz": "Canada/Eastern",
+  "forum": false,
+  "avenues": false,
+  "gp": true,
+  "plaza": false,
+  "outdoor": true,
+  "trees": false,
+  "green": false,
+  "pickup": false,
+  "boardroom": false,
+  "events": [
+      {
+        "type": "nso",
+        "name": "Sainte-Catherine",
+        "date": "2008-07-25T17:00:00",
+        "address": "1321 Rue Ste-Catherine Ouest",
+        "city": "Montreal",
+        "state": "Quebec",
+        "art": true
+      },
+      {
+        "type": "move",
+        "date": "2026-01-16T10:00:00",
+        "address": "1255 Rue Ste-Catherine O",
+        "city": "Montreal",
+        "state": "Quebec",
+        "gift": true
+      }
+  ]
+},
  {
    "name": "West 14th Street",
    "id": "250",
